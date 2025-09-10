@@ -16,5 +16,9 @@ Sweet Cakes Recipe App is a static website showcasing the layout for browsing, s
 
 ## Notes
 
-This project is a static layout demonstration. Buttons, search, and other interactive elements are non-functional and serve only
+This project is a static layout demonstration. Buttons, search, and other interactive elements are non-functional and serve only as visual placeholders.
+
+## See the Final Product
+
+You can view the final product [here](https://ab8928.pages.labranet.jamk.fi/sweet_cakes/).
 
